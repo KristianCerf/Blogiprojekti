@@ -1,6 +1,6 @@
 # Blogiprojekti
-Blogipalsta_projekti
-Sovelluksen avulla voi voi lukaista blogeja, joihin käyttäjät vivat regoida ja kommentoida. Sovelluksen ominaisuuksia ovat:
+# Blogipalsta_projekti
+# Sovelluksen avulla voi voi lukaista blogeja, joihin käyttäjät vivat regoida ja kommentoida. Sovelluksen ominaisuuksia ovat:
 
 Käyttäjä voi kirjautua sisään ja ulos sekä luoda uuden tunnuksen.
 Käyttäjä näkee sovelluksen etusivulla listan blogipostauksista sekä jokaisen alueen reaktoiden ja viestien määrän ja viimeksi lähetetyn viestin ajankohdan.
